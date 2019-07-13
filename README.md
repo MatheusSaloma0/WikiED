@@ -1,6 +1,8 @@
 # WikiED
 Trabalho de Estrutura de Dados 
 
+Professora Patrícia	Dockhorn Costa
+
 Na última	década,	um grande	número de	sistemas colaborativos apareceram	na Web. Exemplos	
 clássicos	são	a	Wikipedia,Linux	e	Yahoo! Answers. Nestes sistemas, usuários finais colaboram
 para construir algum artefato que será útil para toda	a comunidade.	No caso	da Wikipedia,	em 
